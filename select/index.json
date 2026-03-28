@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "間人間",
   "base_artist": "ずっと真夜中でいいのに。",
-  "createdAt": "2026-03-27T12:00:42.503979Z",
+  "createdAt": "2026-03-28T13:25:13.463495Z",
   "candidates": [
     {
       "id": "petitlyrics_1",
@@ -11,6 +11,15 @@
       "artist": "ずっと真夜中でいいのに。",
       "has_synced": false,
       "path": "select/pl_01_間人間_ずっと真夜中でいいのに。.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "間人間",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/localdb_01_間人間_ずっと真夜中でいいのに。.txt",
+      "repo_name": "Pd2HGnmkJ20"
     }
   ]
 }
